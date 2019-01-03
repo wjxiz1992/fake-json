@@ -1,0 +1,14 @@
+{
+   "beyonder":{
+      "checkupdate":{
+         "os":"android",
+         "version":"1.1.0",
+         "app_update_data":{
+            "version_name":"2.0.0",
+            "store_link":"com.nvidia.shield.remote",
+            "blocking_update":true,
+            "soft_update_prompt":true
+         }
+      }
+   }
+}
